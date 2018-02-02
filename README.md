@@ -2,7 +2,7 @@
 
 Tutorial:
 
-* Add: Add new child
+* Add: Add new child
 * Remove: Remove child from parent
 * Toggle: SHow/hide children
 * Click on title to rename
